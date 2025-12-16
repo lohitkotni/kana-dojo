@@ -26,7 +26,8 @@ const NAMESPACES = [
   'settings',
   'errors',
   'menuInfo',
-  'translator'
+  'translator',
+  'blog'
 ];
 
 let hasErrors = false;
