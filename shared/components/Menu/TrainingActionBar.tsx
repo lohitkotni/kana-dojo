@@ -239,7 +239,7 @@ const TrainingActionBar: React.FC<ITopBarProps> = ({
                   setShowGameModesModal(true);
                 }}
               >
-                <span className='whitespace-nowrap'>Train</span>
+                <span className='whitespace-nowrap'>Classic Training</span>
                 <Play className={clsx(isFilled && 'fill-current')} size={20} />
               </button>
             </div>
